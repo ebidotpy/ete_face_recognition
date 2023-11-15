@@ -29,6 +29,7 @@ list_of_files = [
     "app.py",
     "Dockerfile",
     "research/trials.ipynb",
+    "artifacts"
 
 ]
 for filepath in list_of_files:
