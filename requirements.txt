@@ -1,0 +1,16 @@
+dlib
+face_recognition
+opencv-python==4.5.4.60
+dill==0.3.5.1
+from-root==1.0.2
+fastapi
+uvicorn
+imutils
+dvc
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+-e .
