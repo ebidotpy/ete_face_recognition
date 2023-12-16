@@ -14,4 +14,19 @@ ensure==1.0.2
 joblib
 types-pyYAML
 notebook
+bcrypt
+cryptography
+httptools
+passlib
+psycopg2-binary
+pyasn1
+pydantic
+pycparser
+python-jose
+python-multipart
+sqlalchemy
+starlette
+typing_extensions
+watchfiles
+alembic
 -e .
